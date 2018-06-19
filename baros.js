@@ -29,7 +29,7 @@ client.on('message', (message) => {
         } else if (result == 5) {
             message.reply('Mangleala');
         } else if (result == 6) {
-            message.reply('Ion');
+            message.reply('Ion Jderu');
         } else if (result == 7) {
             message.reply('Ciorica');
         } else if (result == 8) {
