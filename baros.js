@@ -27,9 +27,9 @@ client.on('message', (message) => {
         } else if (result == 4) {
             message.reply('Vali');
         } else if (result == 5) {
-            message.reply('Mangleala');
+            message.reply('Eu');
         } else if (result == 6) {
-            message.reply('Ion Jderu');
+            message.reply('Jder');
         } else if (result == 7) {
             message.reply('Ciorica');
         } else if (result == 8) {
@@ -37,9 +37,9 @@ client.on('message', (message) => {
         } else if (result == 9) {
             message.reply('Fabi');
         } else if (result == 10) {
-            message.reply('Nas');
+            message.reply('Mesi');
         } else if (result == 11) {
-            message.reply('Catalin');
+            message.reply('Futanke');
         }
     }
 });
